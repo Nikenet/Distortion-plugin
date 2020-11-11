@@ -1,4 +1,3 @@
 # Distortion-plugin
-Test
-Какая-то строка!
-Zdarova pacani
+
+SDK documentation: https://developer.steinberg.help/display/VST/VST+Home
